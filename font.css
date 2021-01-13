@@ -1,5 +1,5 @@
 @font-face {
-    font-family:"Circular";
+    font-family:'Circular Book';
     src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-book.eot");
     src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-book.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-book.woff2") format("woff2"),
@@ -9,11 +9,11 @@
 }
 
 @font-face {
-    font-family:"Circular";
-    src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-bold.eot");
-    src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-bold.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-bold.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-bold.woff") format("woff");
+    font-family:'Circular Black';
+    src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-black.eot");
+    src: url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-black.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-black.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/jinsansung/font/lineto-circular-black.woff") format("woff");
     font-weight: 900;
     font-style: normal;
 }
